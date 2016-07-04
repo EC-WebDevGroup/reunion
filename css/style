@@ -1,0 +1,52 @@
+<style type="text/css">
+
+body {
+ 	 	color: black;
+      
+}
+
+p {
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+   font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+    margin-bottom:50px;
+}
+ 
+h2 {
+    font-size: 48px;
+   
+    
+} 
+
+.navbar {
+  
+        background-color: #670001;
+
+}
+
+.jumbotron {
+    margin-top: 50px;
+    box-shadow
+
+}
+
+
+/* will eliminate nav bar when printing */
+@media print{
+    nav {
+        display: none;
+    }
+}
+
+
+</style>
+
+
+ 
